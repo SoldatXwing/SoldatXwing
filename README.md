@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoldatXwing
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on idk what collaborate is lol
+- 👀 I’m interested in C#, JS
+- 🌱 I’m currently learning C'
+- 💞️ I’m looking to collaborate with no one bc i am bad Programmer
 - 📫 How to reach me idk maybe write me on githube
 
 <!---
