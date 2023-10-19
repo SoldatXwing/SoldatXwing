@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoldatXwing
 - 👀 I’m interested in C#, JS
-- 🌱 I’m currently learning C'
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with no one bc i am bad Programmer
 - 📫 How to reach me idk maybe write me on githube
 
